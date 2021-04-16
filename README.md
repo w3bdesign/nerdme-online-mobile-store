@@ -1,8 +1,10 @@
 # Nerdme -- Online mobile store
 
-## Demo of ready components - click any link to open product details page
+## Demo 
 
-[https://nerdme-online-mobile-store.web.app](https://nerdme-online-mobile-store.web.app)
+click any link to open product details page
+
+## [https://nerdme-online-mobile-store.web.app](https://nerdme-online-mobile-store.web.app)
 
 
 ## Tailwindcss templates
