@@ -1,12 +1,14 @@
 # Nerdme -- Online mobile store
 
 ## Demo 
+
 click any link to open product details page
 
-## [https://nerdme-online-mobile-store.web.app](https://nerdme-online-mobile-store.web.app)
+### [https://nerdme-online-mobile-store.web.app](https://nerdme-online-mobile-store.web.app)
 
 
 ## Tailwindcss templates
+
 Still uncleaned by the way, I will rewrite them soon to have them merged into the project.
 
 ### [Shipping](https://play.tailwindcss.com/kKWpajm6fI?layout=preview)
