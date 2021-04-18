@@ -6,7 +6,7 @@ import LeftSide from './LeftSide';
 
 const TopNavbar = () => {
   return (
-    <div class='px-2 py-2 sm:px-4 sm:py-3 md:px-8 flex items-center justify-between bg-white'>
+    <div className='px-2 py-2 sm:px-4 sm:py-3 md:px-8 flex items-center justify-between bg-white'>
       <LeftSide />
       <SearchBox />
       <RightSideIcons />
